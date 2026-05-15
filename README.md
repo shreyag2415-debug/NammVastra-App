@@ -43,7 +43,12 @@ Click Run
 Select Emulator or Device
 
 ## Screenshots
-(Add screenshots here)
+<img width="1080" height="2199" alt="login" src="https://github.com/user-attachments/assets/fa2f95dd-a7cd-4ac5-b13e-e2883f77e92f" />
+<img width="703" height="1462" alt="fashion" src="https://github.com/user-attachments/assets/bdf3b7ac-5946-4749-ab69-42c20845a3a8" />
+<img width="717" height="1464" alt="wishlist" src="https://github.com/user-attachments/assets/bcdc8d1a-d1c1-4ddb-a15a-011970d3a859" />
+<img width="706" height="1462" alt="upload" src="https://github.com/user-attachments/assets/9ef49fd1-e8e9-4d4e-9e1e-9672635877a2" />
+<img width="1080" height="2204" alt="price" src="https://github.com/user-attachments/assets/08518734-52bb-4ea8-a1b0-dde8f1f6e376" />
+<img width="717" height="1462" alt="stories" src="https://github.com/user-attachments/assets/b7dd0dd9-a027-4ea0-bb8f-3a5a3768c80a" />
 
 ## Future Enhancements
 - Online Payment Integration
